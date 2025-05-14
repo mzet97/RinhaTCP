@@ -1,0 +1,87 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+.idea/
+.DS_Store
+*.log
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+
+# Eclipse
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# IntelliJ
+out/
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Rider
+.idea/
+.idea/.idea.DotSettings
+*.DotSettings.user
+
+# Rust
+target/
+Cargo.lock
+
+# Go
+*.exe
+*.test
+*.out
+vendor/
+/go.sum
+/bin/
+cover.out
+# Go modules
+go.work
+
+# SO e gerais
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+__MACOSX/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Outros
+.env
+.env.*
+!/.env.example
